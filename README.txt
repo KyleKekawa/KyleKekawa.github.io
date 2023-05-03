@@ -1,30 +1,7 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+I am thrilled to announce the launch of my new portfolio! After months of hard work and dedication, I am excited to share my accomplishments with all of you.
 
+This portfolio represents the beginning of a new chapter in my professional journey. It showcases my skills, experiences, and achievements in a way that I am proud of. I am confident that this portfolio will be an asset in my future career endeavors, and I look forward to seeing where it will take me.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Creating this portfolio has been an incredible learning experience for me, and I am grateful for the opportunity to share it with all of you. I am excited to continue building on this foundation and pursuing new opportunities in my field.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for your support and encouragement along the way. I hope you enjoy exploring my portfolio as much as I enjoyed creating it.
